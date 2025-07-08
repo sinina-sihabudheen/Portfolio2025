@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("img/bgnew.png") no-repeat ;
+    background: url("portfolio/img/bg_img.jpg") no-repeat ;
     background-position: center;
     height: 100vh;
     color: #fff;
